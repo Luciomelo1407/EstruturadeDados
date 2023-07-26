@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ListaSequencial.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ListaSequencial.dir/objects.a @CMakeFiles\ListaSequencial.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ListaSequencial.dir/objects.a -Wl,--no-whole-archive -o ListaSequencial.exe -Wl,--out-implib,libListaSequencial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ListaSequencial.dir\linkLibs.rsp

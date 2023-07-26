@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaSequencial.dir\\main.c.obj -c \"C:\\Users\\PC_Beebop\\Desktop\\Atividades EDD\\Clion\\ListaSequencialHandmade\\main.c\"",
+  "file": "C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/main.c",
+  "output": "CMakeFiles/ListaSequencial.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaSequencial.dir\\ListaSequencial.c.obj -c \"C:\\Users\\PC_Beebop\\Desktop\\Atividades EDD\\Clion\\ListaSequencialHandmade\\ListaSequencial.c\"",
+  "file": "C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/ListaSequencial.c",
+  "output": "CMakeFiles/ListaSequencial.dir/ListaSequencial.c.obj"
+}
+]

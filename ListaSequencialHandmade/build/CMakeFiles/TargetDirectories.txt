@@ -1,0 +1,3 @@
+C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/build/CMakeFiles/ListaSequencial.dir
+C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/build/CMakeFiles/edit_cache.dir
+C:/Users/PC_Beebop/Desktop/Atividades EDD/Clion/ListaSequencialHandmade/build/CMakeFiles/rebuild_cache.dir
