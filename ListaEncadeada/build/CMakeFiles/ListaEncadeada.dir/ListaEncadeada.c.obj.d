@@ -1,5 +1,5 @@
-CMakeFiles/ListaEncadeada.dir/main.c.obj: \
- C:\Users\PC_Beebop\Desktop\EstruturadeDados\ListaEncadeada\main.c \
+CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj: \
+ C:\Users\PC_Beebop\Desktop\EstruturadeDados\ListaEncadeada\ListaEncadeada.c \
  c:\mingw\include\stdio.h c:\mingw\include\_mingw.h \
  c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
  c:\mingw\include\sdkddkver.h \

@@ -4,5 +4,11 @@
   "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaEncadeada.dir\\main.c.obj -c C:\\Users\\PC_Beebop\\Desktop\\EstruturadeDados\\ListaEncadeada\\main.c",
   "file": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeada/main.c",
   "output": "CMakeFiles/ListaEncadeada.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeada/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaEncadeada.dir\\ListaEncadeada.c.obj -c C:\\Users\\PC_Beebop\\Desktop\\EstruturadeDados\\ListaEncadeada\\ListaEncadeada.c",
+  "file": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeada/ListaEncadeada.c",
+  "output": "CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj"
 }
 ]

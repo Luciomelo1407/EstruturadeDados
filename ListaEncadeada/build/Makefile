@@ -522,6 +522,30 @@ ListaEncadeada/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListaEncadeada.dir\build.make CMakeFiles/ListaEncadeada.dir/build
 .PHONY : ListaEncadeada/fast
 
+ListaEncadeada.obj: ListaEncadeada.c.obj
+.PHONY : ListaEncadeada.obj
+
+# target to build an object file
+ListaEncadeada.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListaEncadeada.dir\build.make CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj
+.PHONY : ListaEncadeada.c.obj
+
+ListaEncadeada.i: ListaEncadeada.c.i
+.PHONY : ListaEncadeada.i
+
+# target to preprocess a source file
+ListaEncadeada.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListaEncadeada.dir\build.make CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.i
+.PHONY : ListaEncadeada.c.i
+
+ListaEncadeada.s: ListaEncadeada.c.s
+.PHONY : ListaEncadeada.s
+
+# target to generate assembly for a file
+ListaEncadeada.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListaEncadeada.dir\build.make CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.s
+.PHONY : ListaEncadeada.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -586,6 +610,9 @@ help:
 	@echo ... NightlyTest
 	@echo ... NightlyUpdate
 	@echo ... ListaEncadeada
+	@echo ... ListaEncadeada.obj
+	@echo ... ListaEncadeada.i
+	@echo ... ListaEncadeada.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

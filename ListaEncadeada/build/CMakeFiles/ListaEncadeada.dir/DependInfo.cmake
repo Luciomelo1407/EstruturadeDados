@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeada/ListaEncadeada.c" "CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj" "gcc" "CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj.d"
   "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeada/main.c" "CMakeFiles/ListaEncadeada.dir/main.c.obj" "gcc" "CMakeFiles/ListaEncadeada.dir/main.c.obj.d"
   )
 

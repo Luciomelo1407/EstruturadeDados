@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj"
+  "CMakeFiles/ListaEncadeada.dir/ListaEncadeada.c.obj.d"
   "CMakeFiles/ListaEncadeada.dir/main.c.obj"
   "CMakeFiles/ListaEncadeada.dir/main.c.obj.d"
   "ListaEncadeada.exe"
