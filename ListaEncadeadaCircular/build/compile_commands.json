@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeadaCircular/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaEncadeadaCircular.dir\\main.c.obj -c C:\\Users\\PC_Beebop\\Desktop\\EstruturadeDados\\ListaEncadeadaCircular\\main.c",
+  "file": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeadaCircular/main.c",
+  "output": "CMakeFiles/ListaEncadeadaCircular.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeadaCircular/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\ListaEncadeadaCircular.dir\\ListaEncCircular.c.obj -c C:\\Users\\PC_Beebop\\Desktop\\EstruturadeDados\\ListaEncadeadaCircular\\ListaEncCircular.c",
+  "file": "C:/Users/PC_Beebop/Desktop/EstruturadeDados/ListaEncadeadaCircular/ListaEncCircular.c",
+  "output": "CMakeFiles/ListaEncadeadaCircular.dir/ListaEncCircular.c.obj"
+}
+]

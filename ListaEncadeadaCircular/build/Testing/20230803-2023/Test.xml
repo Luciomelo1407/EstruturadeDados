@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20230803-2023-Experimental"
+	Name="DESKTOP-287UG21"
+	Generator="ctest-3.27.0-rc4"
+	CompilerName="C:/MinGW/bin/g++.exe"
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-287UG21"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="15"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="26273"
+	TotalPhysicalMemory="16298"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2400"
+	>
+	<Testing>
+		<StartDateTime>Aug 03 17:23 SA Eastern Standard Time</StartDateTime>
+		<StartTestTime>1691094180</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 03 17:23 SA Eastern Standard Time</EndDateTime>
+		<EndTestTime>1691094180</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

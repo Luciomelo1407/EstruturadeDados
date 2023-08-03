@@ -39,7 +39,7 @@ bool inserirNaPos(Item item, int pos, Lista *l);
 
 bool remover(Item item, Lista *l);
 
-void limpar(LISTA *l);
+void limpar(Lista *l);
 
-void destruir(LISTA *l);
+void destruir(Lista *l);
 

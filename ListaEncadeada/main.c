@@ -50,7 +50,7 @@ int main(){
     adicionar_item(&l);
     mostraLista(&l);
     printf("\n");
-    // mostraDireiro(&l);
+    mostraDireiro(&l);
     teste_busca(&l);
     printf("\n");
     teste_alterar(&l);
@@ -58,6 +58,7 @@ int main(){
     teste_remover(&l);
     printf("\n");
     mostraLista(&l);
+    printf("\n%d", l.cabeca->item);
 
     
 

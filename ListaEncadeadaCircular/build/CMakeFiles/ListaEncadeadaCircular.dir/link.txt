@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ListaEncadeadaCircular.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ListaEncadeadaCircular.dir/objects.a @CMakeFiles\ListaEncadeadaCircular.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ListaEncadeadaCircular.dir/objects.a -Wl,--no-whole-archive -o ListaEncadeadaCircular.exe -Wl,--out-implib,libListaEncadeadaCircular.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ListaEncadeadaCircular.dir\linkLibs.rsp
